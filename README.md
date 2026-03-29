@@ -74,7 +74,7 @@
 
 
 
-\- 📧 **Email:** your.email@example.com
+\- 📧 **Email:** kate.temnikova@gmail.com
 
 \- 🐙 **GitHub:** \[github.com/katetemnikova-cloud](https://github.com/katetemnikova-cloud)
 
